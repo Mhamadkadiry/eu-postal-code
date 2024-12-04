@@ -12,7 +12,7 @@
     "eu",
     "europe"
   ],
-  "author": "",
+  "author": "Mohamad Al Kadiri",
   "license": "MIT",
   "description": "A lightweight utility to extract postal codes from raw strings for supported European countries.",
   "repository": {
