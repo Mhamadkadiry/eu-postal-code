@@ -5,7 +5,13 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "postal",
+    "code",
+    "extraction",
+    "eu",
+    "europe"
+  ],
   "author": "",
   "license": "MIT",
   "description": "A lightweight utility to extract postal codes from raw strings for supported European countries.",
@@ -13,6 +19,7 @@
     "type": "git",
     "url": "https://github.com/mhamadkadiry/eu-postal-code.git"
   },
+
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.1",
