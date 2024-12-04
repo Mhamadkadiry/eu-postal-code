@@ -1,5 +1,5 @@
 {
-  "name": "eu-postal-code",
+  "name": "@mhamadkadiry/eu-postal-code",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "author": "",
   "license": "MIT",
   "description": "A lightweight utility to extract postal codes from raw strings for supported European countries.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhamadkadiry/eu-postal-code.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.1",
