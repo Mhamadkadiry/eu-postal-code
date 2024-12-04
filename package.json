@@ -1,6 +1,6 @@
 {
   "name": "@mohamadalkadiri/eu-postal-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -20,7 +20,6 @@
     "type": "git",
     "url": "https://github.com/mhamadkadiry/eu-postal-code.git"
   },
-
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.1",
